@@ -1,7 +1,7 @@
 <?php
 
 	/*
-		Plugin Name: WooCommerce Pending Orders Count in AdminBar
+		Plugin Name: WC Pending Orders Count in AdminBar
 		Plugin URI: http://ideyeno.ir
 		Description: نمایش تعداد سفارشات در انتظار تحویل ووکامرس در منوی ادمین وردپرس ...
 		Version: 1.0
