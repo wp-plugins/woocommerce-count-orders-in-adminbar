@@ -4,7 +4,7 @@
 		Plugin Name: WC Pending Orders Count in AdminBar
 		Plugin URI: http://hamyarwp.com/wordpress/wc-pending-orders-count-in-adminbar/
 		Description: نمایش تعداد سفارشات در انتظار تحویل ووکامرس در منوی ادمین وردپرس ...
-		Version: 1.0.4
+		Version: 1.0.5
 		Author: Nima Saberi
 		Author URI: http://ideyeno.ir
 	*/
