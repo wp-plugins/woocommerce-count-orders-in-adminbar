@@ -16,6 +16,9 @@ Show WooCommerce Pending Orders Count in WordPress AdminBar
 
 نمایش تعداد سفارشات در انتظار تحویل ووکامرس در منوی ادمین وردپرس
 
+صفحه افزونه در همیار وردپرس :
+http://hamyarwp.com/wc-pending-orders-count-in-adminbar/
+
 by Nima Saberi < http://ideyeno.ir >
 
 == Installation ==
