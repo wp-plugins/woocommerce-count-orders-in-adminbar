@@ -34,6 +34,9 @@ by Nima Saberi < http://ideyeno.ir >
 
 == Changelog ==
 
+= 1.1 =
+* Edit url
+
 = 1.0.5 =
 * ScreenShot :| 
 
