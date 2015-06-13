@@ -36,6 +36,9 @@ Show WooCommerce Pending Orders Count in WordPress AdminBar
 
 == Changelog ==
 
+= 1.2 =
+* bugfix
+
 = 1.1.0 =
 * Edit url
 
