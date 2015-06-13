@@ -1,7 +1,7 @@
 === WC Pending Orders Count in AdminBar ===
 Contributors: nipoto
 Donate link: http://ideyeno.ir
-Tags: stable, woocommerce, woocommerce adminbar, wordpress adminbar, orders notification, pending orders, orders count, wordpress
+Tags: stable, woocommerce, woocommerce adminbar, wordpress adminbar, orders notification, pending orders, orders count, wordpress, وردپرس, ووکامرس, سفارش
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 1.0.5
@@ -16,10 +16,12 @@ Show WooCommerce Pending Orders Count in WordPress AdminBar
 
 نمایش تعداد سفارشات در انتظار تحویل ووکامرس در منوی ادمین وردپرس
 
-صفحه افزونه در همیار وردپرس :
-http://hamyarwp.com/wc-pending-orders-count-in-adminbar/
+= از ما حمایت کنید : =
+[ * * * * * ](https://wordpress.org/support/view/plugin-reviews/woocommerce-count-orders-in-adminbar?rate=5#postform/)
 
-by Nima Saberi < http://ideyeno.ir >
+= با ما در ارتباط باشید : =
+* http://hamyarwp.com/wc-pending-orders-count-in-adminbar/
+* info@ideyeno.ir 
 
 == Installation ==
 
