@@ -1,4 +1,4 @@
-=== WC Pending Orders Count in AdminBar ===
+=== WooCommerce Pending Orders in AdminBar ===
 Contributors: nipoto
 Donate link: http://ideyeno.ir
 Tags: stable, woocommerce, woocommerce adminbar, wordpress adminbar, orders notification, pending orders, orders count, wordpress, وردپرس, ووکامرس, سفارش
