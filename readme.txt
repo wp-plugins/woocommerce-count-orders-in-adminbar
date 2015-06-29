@@ -16,6 +16,10 @@ Show WooCommerce Pending Orders Count in WordPress AdminBar
 
 نمایش تعداد سفارشات در انتظار تحویل ووکامرس در منوی ادمین وردپرس
 
+= Languages =
+* فارسی (fa_IR)
+* English (en_US)
+
 = از ما حمایت کنید : =
 [ * * * * * ](https://wordpress.org/support/view/plugin-reviews/woocommerce-count-orders-in-adminbar?rate=5#postform/)
 
@@ -35,6 +39,10 @@ Show WooCommerce Pending Orders Count in WordPress AdminBar
 2. Screenshot 2
 
 == Changelog ==
+
+= 1.4 =
+* فراهم کردن امکان ترجمه به زبان های دیگر
+* اضافه شدن زبان انگلیسی (en_US)
 
 = 1.3 =
 * updated
