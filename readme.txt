@@ -59,11 +59,3 @@ Show WooCommerce Pending Orders Count in WordPress AdminBar
 
 = 1.0 =
 * Initial commit.
-
-== Upgrade Notice ==
-
-nothing ...
-
-== Frequently Asked Questions ==
-
-nothing ...
