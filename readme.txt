@@ -4,7 +4,7 @@ Donate link: http://ideyeno.ir
 Tags: stable, woocommerce, woocommerce adminbar, wordpress adminbar, orders notification, pending orders, orders count, wordpress, وردپرس, ووکامرس, سفارش
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.3
+Stable tag: 1.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,9 @@ Show WooCommerce Pending Orders Count in WordPress AdminBar
 2. Screenshot 2
 
 == Changelog ==
+
+= 1.5 =
+* bugFix
 
 = 1.4 =
 * فراهم کردن امکان ترجمه به زبان های دیگر
